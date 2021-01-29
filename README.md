@@ -22,3 +22,5 @@ To save performing the same take off for materials if you set the correct *Produ
 
 **Note that bends must be entered manually**
 ![The resulting materials](/img/Materials.png)
+
+*If you are interested in the algorithms and code behind the sheet I break most of them down [here](TheCode.md)*
